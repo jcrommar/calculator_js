@@ -1,4 +1,4 @@
-# Calculator JC by J.C. ; )
+# Calculator JS by J.C. ; )
 
 Calculator built on HTML + CSS + JS
 
